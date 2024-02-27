@@ -1,0 +1,16 @@
+h1 {
+    background-color: rgb(143, 255, 255);
+}
+#titulo-fotos {
+    background-color: rgb(170, 252, 252);
+    border: 1px solid black;
+}
+#titulo-index {
+    background-color: rgb(170, 252, 252);
+    border: 1px solid #ccc;
+    border-radius: 16px;
+}
+.libros{
+    font-family: 'Times New Roman', Times, serif
+
+    }
